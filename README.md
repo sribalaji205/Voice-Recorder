@@ -2,6 +2,11 @@
 Voice Recorder Web app using Flask-Python
 
 # Setup
+
+Install flask using command
+
+          pip install flask
+          
 Install SpeechRecognition module using below command
           
           pip install SpeechRecognition
