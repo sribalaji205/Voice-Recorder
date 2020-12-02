@@ -35,4 +35,4 @@ Install ffmpeg in your system and set environment variable path for it.
               
  #Screenshots
  
- ![screenshots]()
+ ![screenshots](https://github.com/sribalaji205/Voice-Recorder/blob/main/samples/Capture1.PNG)
